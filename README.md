@@ -1,6 +1,6 @@
-# [HTML & CSS capstone project: Directory of Restaurants
+# [Ruby Bubble Sort]
 
-> 
+> First Ruby Microverse project Bubble Sort
 
 ![screenshot](./assets/.png)
 
@@ -10,21 +10,27 @@
 
 ## Built With
 
-- HTML,
-- CSS,
+- Ruby
 
 ## GitHub Repo
 
 -  https://github.com/afcastaneda223/
 
 
-## Author
+## Authors
 
 👤 **Andres Felipe Castañeda Ramos**
 
 - Github: [@afcastaneda223](https://github.com/afcastaneda223)
 - Twitter: [@afcastaneda](https://twitter.com/afcastaneda)
 - Linkedin: [Andres Felipe Castañeda](www.linkedin.com/in/andres-castaneda223)
+
+👤 ****Josue Abraham**
+
+
+- Github: [@joecleverman](https://github.com/joecleverman)
+- Twitter: [@](https://twitter.com/)
+- Linkedin: [Josue Abraham](www.linkedin.com/in/)
 
 
 ## Show your support
