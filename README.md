@@ -25,12 +25,12 @@
 - Twitter: [@afcastaneda](https://twitter.com/afcastaneda)
 - Linkedin: [Andres Felipe Castañeda](www.linkedin.com/in/andres-castaneda223)
 
-👤 ****Josue Abraham**
+👤 **Josue Abraham**
 
 
 - Github: [@joecleverman](https://github.com/joecleverman)
-- Twitter: [@](https://twitter.com/)
-- Linkedin: [Josue Abraham](www.linkedin.com/in/)
+- Twitter: [@](https://twitter.com/a2josue )
+- Linkedin: [Josue Abraham](https://www.linkedin.com/in/cleverman1981/)
 
 
 ## Show your support
