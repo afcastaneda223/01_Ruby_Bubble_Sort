@@ -1,11 +1,11 @@
 puts "First case: Bubble Sort\n"
 
 def bubble_sort(arr)
-    n = arr.length
+    n = arr.length-2
     swapped = true
     while swapped do
       swapped = false
-      (n - 1).times do |i|
+      for i in 0..n
         if arr[i] > arr[i + 1]
           arr[i], arr[i + 1] = arr[i + 1], arr[i]
       swapped = true
